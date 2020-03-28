@@ -150,6 +150,7 @@ Health expenditure, private (% of GDP)
 Health expenditure, public (% of GDP)
 Health expenditure, public (% of government expenditure)
 Life expectancy at birth, total (years)
+Mortality rate, infant (per 1,000 live births)
 Number of infant deaths
 Birth rate, crude (per 1,000 people)
 Fixed telephone subscriptions
